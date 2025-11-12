@@ -34,8 +34,6 @@ biotech-data-trends/
 │
 └── README.md
 
-yaml
-Copy code
 
 ---
 
