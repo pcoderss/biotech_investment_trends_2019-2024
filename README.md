@@ -10,7 +10,7 @@ This project demonstrates the power of **data-driven analysis** in uncovering R&
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 biotech-data-trends/
 ├── data/ # Synthetic CSV datasets
