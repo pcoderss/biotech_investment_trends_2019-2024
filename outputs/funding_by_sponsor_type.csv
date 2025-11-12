@@ -1,0 +1,8 @@
+-- Funding by Sponsor Type 
+
+sponsor_type  num_trials  total_funding
+------------  ----------  -------------
+Academic      37          254604.0     
+Biotech       16          129350.0     
+Startup       16          96974.0      
+Pharma        5           20190.0  

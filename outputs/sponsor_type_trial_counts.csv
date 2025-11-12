@@ -1,0 +1,8 @@
+-- Trials per Sponsor Type 
+
+sponsor_type  num_trials
+------------  ----------
+Academic      43        
+Startup       21        
+Biotech       20        
+Pharma        5  
